@@ -1,0 +1,45 @@
+body
+{
+	padding: 0;
+	margin: 0;
+}
+#header
+{
+	height: 100px;
+	border: 1px solid white;
+	text-align: center;
+	background-color: tan;
+	padding: 0px;
+}
+#navbar
+{
+	height: 40px;
+	background-color: tan;
+	border: 2px solid white;
+	text-align: center;
+
+}
+#sidebar
+{
+	height: 500px;
+	background-color: silver;
+	border: 2px solid white;
+	text-align: center;
+
+}
+#maincontent
+{
+	height: 500px;
+	background-color: silver;
+	border: 2px solid white;
+	text-align: center;
+
+}
+#footer
+{
+	height: 100px;
+	background-color: black;
+	border: 2px solid white;
+	text-align:center;
+
+}
